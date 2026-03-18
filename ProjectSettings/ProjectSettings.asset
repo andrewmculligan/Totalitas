@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: be886eea5cf575f438c3f84baca91413
+  productGUID: 64db5ecf6f06cdd45a589bc563a5aff8
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: totalitasUnity
+  productName: Totalitas
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -846,14 +846,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: totalitasUnity
+  metroPackageName: Totalitas
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: totalitasUnity
+  metroApplicationDescription: Totalitas
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -924,11 +924,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: db672713-3e14-40e1-a2f1-921f2d0c3fce
+  cloudProjectId: 1f1c127e-f19a-4068-a7bb-4185efcf58c5
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: totalitasUnity
-  organizationId: ytrachel0
+  projectName: Totalitas
+  organizationId: eschmidt6800
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
